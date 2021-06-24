@@ -1,6 +1,6 @@
 ## Biography
 
-Allie is a PhD student at the University of Minnesota - Twin Cities, where she is studying quantitative psychology and psychometric methods. Her research broadly encompasses latent variable modeling (e.g., factor analysis, item response theory), test bias, and longitudinal measurement. She is fascinated by the ways in which we can measure seemingly un-measurable constructs, and hopes to support measurement practices that promote equity and diversity. Moreover, Allie is particularly interested in the intersections of research and education policy, with a focus on using advanced quantitative methods to better understand children's educational achievement.
+Allie (she/her) is a PhD student at the University of Minnesota - Twin Cities, where she is studying quantitative psychology and psychometric methods. Her research broadly encompasses latent variable modeling (e.g., factor analysis, item response theory), test bias, and longitudinal measurement. She is fascinated by the ways in which we can measure seemingly un-measurable constructs, and seeks to support and promote equitable measurement practices. Allie is particularly interested in the intersections of research and education policy, with a focus on using advanced quantitative methods to better understand learning and educational achievement.
 
 ## Education
 
