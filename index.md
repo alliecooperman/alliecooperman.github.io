@@ -6,5 +6,7 @@ Allie received her Bachelor of Art's in Psychology from Carleton College in 2013
 
 When not thinking about measurement, Allie enjoys long-distance running, weightlifting, and bagels.  
 
-[Research](https://alliecooperman.github.io/Research)  
+Read more about Allie's research interests [here](https://alliecooperman.github.io/Research)! 
+
+[LinkedIn](https://www.linkedin.com/in/allie-cooperman/)  
 [Google Scholar](https://scholar.google.com/citations?user=e80GVLsAAAAJ&hl=en)

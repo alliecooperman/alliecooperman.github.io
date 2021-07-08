@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Research"
+theme: jekyll-theme-minimal
 permalink: /Research/
 ---
 
