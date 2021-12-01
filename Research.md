@@ -17,7 +17,7 @@ permalink: /Research/
 
 **The National Center for the Improvement of Educational Assessment**  
 Summer Intern  
-May 2021 - Present  
+May 2021 - August 2021  
 
 **University of Minnesota - Twin Cities**  
 Research Assistant  
